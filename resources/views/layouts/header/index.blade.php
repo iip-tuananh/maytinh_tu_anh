@@ -22,9 +22,9 @@
                      </div>
                   </li>
                   <li>
-                     <div class="dropdown">
+                     {{-- <div class="dropdown">
                         <a href="{{route('allListBlog')}}" style="color: white;font-size: 17px;" >Tin tức</a>
-                     </div>
+                     </div> --}}
                   </li>
                   <li class="pr-0">
                      <div class="dropdown">
