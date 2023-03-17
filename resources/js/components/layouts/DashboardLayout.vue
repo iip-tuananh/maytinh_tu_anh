@@ -175,14 +175,14 @@ export default {
             //   name: "Quản lý đối tác",
             //   path: "/partner",
             // },
-            {
-              name: "Thư viện ảnh",
-              path: "/prize",
-            },
-            {
-              name: "Quản lý Founder",
-              path: "/founder",
-            },
+            // {
+            //   name: "Thư viện ảnh",
+            //   path: "/prize",
+            // },
+            // {
+            //   name: "Quản lý Founder",
+            //   path: "/founder",
+            // },
             {
               name: "Cài đặt chung",
               path: "/setting",
