@@ -1835,11 +1835,20 @@ p {
     vertical-align: top;
     font-size: 18px
 }
-
+.limit-text-3 {
+  
+}
 .list-product .product-decs .pricing-meta {
     line-height: 20px;
     -webkit-transition: all .3s linear;
-    transition: all .3s linear
+    transition: all .3s linear;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+    list-style: none !important;
 }
 
 .list-product .product-decs .pricing-meta li {
