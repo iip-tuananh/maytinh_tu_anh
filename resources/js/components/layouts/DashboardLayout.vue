@@ -132,25 +132,25 @@ export default {
             }
           ],
         },
-        {
-          icon: "mdi mdi-newspaper menu-icon",
-          name: "Quản lý bài viết",
-          route_name: "",
-          sub: [
-            {
-              name: "Danh sách bài viết",
-              path: "/blogs",
-            },
-            {
-              name: "Danh mục bài viết",
-              path: "/blog/category",
-            },
-            {
-              name: "Loại bài viết",
-              path: "/blog/type",
-            },
-          ],
-        },
+        // {
+        //   icon: "mdi mdi-newspaper menu-icon",
+        //   name: "Quản lý bài viết",
+        //   route_name: "",
+        //   sub: [
+        //     {
+        //       name: "Danh sách bài viết",
+        //       path: "/blogs",
+        //     },
+        //     {
+        //       name: "Danh mục bài viết",
+        //       path: "/blog/category",
+        //     },
+        //     {
+        //       name: "Loại bài viết",
+        //       path: "/blog/type",
+        //     },
+        //   ],
+        // },
         {
           icon: "mdi mdi-newspaper menu-icon",
           name: "Banner quảng cáo",
@@ -171,10 +171,10 @@ export default {
               name: "Quản lý banner",
               path: "/banner",
             },
-            {
-              name: "Quản lý đối tác",
-              path: "/partner",
-            },
+            // {
+            //   name: "Quản lý đối tác",
+            //   path: "/partner",
+            // },
             {
               name: "Thư viện ảnh",
               path: "/prize",
