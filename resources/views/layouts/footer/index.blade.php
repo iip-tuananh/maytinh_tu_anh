@@ -15,57 +15,15 @@
                      </div>
                      <div>
                         <p>
-                           VPĐD: 
+                           CS1: 
                            <span>
                               {{$setting->address1}}
                            </span>
                         </p>
                         <p>
-                           CS1: 
-                           <span>
-                              198 Phố Thái Hà, Trung Liệt, Đống Đa, Hà Nội
-                           </span>
-                        </p>
-                        <p>
                            CS2: 
                            <span>
-                              72 Nguyễn Trãi, Ngã Tư Sở, Thanh Xuân, Hà Nội68
-                           </span>
-                        </p>
-                        <p>
-                           CS3: 
-                           <span>
-                              68 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội
-                           </span>
-                        </p>
-                        <p>
-                           CS4: 
-                           <span>
-                              250 Phố Minh Khai, Minh Khai, Hai Bà Trưng, Hà Nội
-                           </span>
-                        </p>
-                        <p>
-                           CS5: 
-                           <span>
-                              83 Bà Triệu, Nguyễn Du, Hoàn Kiếm, Hà Nội
-                           </span>
-                        </p>
-                        <p>
-                           CS6: 
-                           <span>
-                              32 Phùng Khoang, Trung Văn, Từ Liêm, Hà Nội
-                           </span>
-                        </p>
-                        <p>
-                           CS7: 
-                           <span>
-                              86 Đường Nguyễn Văn Cừ, Gia Thụy, Long Biên, Hà Nội
-                           </span>
-                        </p>
-                        <p>
-                           CS8: 
-                           <span>
-                              CT4, Khu đô thị Văn Khê, La Khê, Hà Đông, Hà Nội
+                              {{$setting->address2}}
                            </span>
                         </p>
                      </div>
