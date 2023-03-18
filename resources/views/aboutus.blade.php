@@ -1,9 +1,9 @@
 @extends('layouts.main.master')
 @section('title')
-Giới thiệu về Faifo Foods
+Giới thiệu 
 @endsection
 @section('description')
-Giới thiệu về Faifo Foods
+Giới thiệu
 @endsection
 @section('css')
 @endsection
@@ -14,7 +14,7 @@ Giới thiệu về Faifo Foods
     <div class="auto-container">
        <div class="content-box">
           <div class="title-box">
-             <h1>Giới thiệu về Faifo Foods </h1>
+             <h1>Giới thiệu  </h1>
           </div>
           <ul class="bread-crumb clearfix">
              <li><a href="{{route('home')}}">Home</a></li>
@@ -26,7 +26,7 @@ Giới thiệu về Faifo Foods
  <section class="portfolio-section">
    <div class="auto-container">
       <div class="sec-title text-center">
-         <h2 style="font-size:30px;padding-top:22px">Giới thiệu về FaiFo Foods</h2>
+         <h2 style="font-size:30px;padding-top:22px">Giới thiệu </h2>
       </div>
       <div class="row clearfix">
          <div class="col-lg-12 col-md-12 col-sm-12 content-side">

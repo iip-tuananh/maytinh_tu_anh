@@ -45,6 +45,14 @@
            </div>
            <!-- Sidebar Area Start -->
        </div>
+       <div class="row">
+        <div class="col-md-6 col-xs-12">
+            {!!$setting->linkpopup!!}
+        </div>
+        <div class="col-md-6 col-xs-12">
+            {!!$setting->iframe_map!!}
+        </div>
+       </div>
    </div>
 </div>
 @endsection
