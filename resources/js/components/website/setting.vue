@@ -114,6 +114,15 @@
                   />
                 </div>
                 <div class="form-group">
+                  <label>Iframe GG map</label>
+                  <vs-input
+                    type="text"
+                    size="default"
+                    class="w-100"
+                    v-model="objData.footer_content"
+                  />
+                </div>
+                <div class="form-group">
                   <label>Favicon</label>
                   <image-upload type="avatar" v-model="objData.favicon" :title="'favicon'"></image-upload>
                 </div>
