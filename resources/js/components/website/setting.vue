@@ -114,7 +114,7 @@
                   />
                 </div>
                 <div class="form-group">
-                  <label>Iframe GG map</label>
+                  <label>Link youtube</label>
                   <vs-input
                     type="text"
                     size="default"
