@@ -134,7 +134,7 @@
                   <label>Ảnh Popup</label>
                   <image-upload type="avatar" v-model="objData.popupimage" :title="'popupimage'"></image-upload>
                 </div>
-                <div class="form-group">
+                <!-- <div class="form-group">
                   <label>Link Popup</label>
                   <vs-input
                     type="text"
@@ -142,7 +142,7 @@
                     class="w-100"
                     v-model="objData.linkpopup"
                   />
-                </div>
+                </div> -->
                 <div class="form-group">
                   <label>Trạng thái hiển thị popup</label>
                   <vs-select v-model="objData.statusPopup"
