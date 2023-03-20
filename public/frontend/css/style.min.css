@@ -1838,6 +1838,15 @@ p {
 .limit-text-3 {
   
 }
+h4.h4-cus {
+    background-color: #bc0000;
+    line-height: 35px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+    /* height: 35px; */
+}
 .list-product .product-decs .pricing-meta {
     line-height: 20px;
     -webkit-transition: all .3s linear;

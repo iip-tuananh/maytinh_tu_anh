@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" style="margin-bottom: 10px">
    <div class="row">
       <div class="col-md-6 col-xs-12">
          <h4 class="h4-cus"> Video about us</h4>
