@@ -1,17 +1,20 @@
+<div class="container">
+   <div class="row">
+      <div class="col-md-6 col-xs-12">
+         <h4 class="h4-cus"> Video about us</h4>
+         {!!$setting->footer_content!!}
+      </div>
+      <div class="col-md-6 col-xs-12">
+         <h4 class="h4-cus">MAP</h4>
+         {!!$setting->iframe_map!!}
+      </div>
+   </div>
+</div>
 <div class="footer-area">
    <div class="footer-container">
       <div class="footer-top">
          <div class="container">
-            <div class="row">
-               <div class="col-md-6 col-xs-12">
-                  <h4 class="h4-cus"> Video about us</h4>
-                  {!!$setting->footer_content!!}
-               </div>
-               <div class="col-md-6 col-xs-12">
-                  <h4 class="h4-cus">MAP</h4>
-                  {!!$setting->iframe_map!!}
-               </div>
-            </div>
+         
             <div class="row">
                <div class="col-md-6 col-lg-4 mb-md-30px mb-lm-30px">
                   <div class="single-wedge">
