@@ -87,7 +87,7 @@
                   />
                 </div>
                 <div class="form-group">
-                  <label>Google</label>
+                  <label>Mess</label>
                   <vs-input
                     type="text"
                     size="default"
@@ -95,7 +95,7 @@
                     v-model="objData.google"
                   />
                 </div>
-                <div class="form-group">
+                <!-- <div class="form-group">
                   <label>Code Google analytics</label>
                   <vs-input
                     type="text"
@@ -103,7 +103,7 @@
                     class="w-100"
                     v-model="objData.GA"
                   />
-                </div>
+                </div> -->
                 <div class="form-group">
                   <label>Iframe GG map</label>
                   <vs-input
